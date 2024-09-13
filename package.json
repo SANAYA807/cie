@@ -9,7 +9,7 @@
     "axios": "^0.21.3",
     "base-64": "^1.0.0",
     "bcryptjs": "^2.4.3",
-    "chokidar": "^3.5.2",
+    "chokidar": "^4.0.0",
     "create-react-class": "^15.7.0",
     "draft-js": "^0.11.7",
     "draftjs-to-html": "^0.9.1",
